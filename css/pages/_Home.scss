@@ -1,0 +1,60 @@
+$colorpch:#e8603c;
+
+
+@mixin padding-b  {
+	padding-bottom: 25px;
+}
+
+//------------------------
+
+.float-right{
+	float: right;
+}
+.marginl-nav{
+
+}
+.text-white{
+	color: white;
+}
+.navbar-collapse.collapse.marginl-nav {
+    margin-left: 565px;
+}
+nav.navbar.navbar-default.navbar-fixed-top {
+    background-color: white;
+}
+img.slide {
+    width: 100%;
+}
+#color-bar-home{
+	background-color: #f2b19c;
+	width: 90%;
+	height: 50px;
+    margin-top: 82px;
+	position: absolute;
+}
+img.slide {
+    margin-top: 100px;
+}
+.floatleft h2 {
+    color: $colorpch;
+}
+.btn{
+	background-color: $colorpch;
+}
+div.bg-head {
+    width: 51%;
+    height: 30px;
+    background: url(../images/heading-bg.png);
+    margin-top: -39px;
+    margin-left: -60px;
+}
+.bg-head.rcntw {
+    margin-left: -35px;
+    width: 100%;
+}
+.row.about-jetro {
+    background-color: #E8603C;
+}
+h2 img {
+    padding-right: 25px;
+}

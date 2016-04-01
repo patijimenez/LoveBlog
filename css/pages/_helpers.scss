@@ -1,0 +1,36 @@
+//variable
+$cienp:100%;
+
+$width70:70%;
+$cursive: cursive;
+@import "helpers/_mixins.scss";
+@include fontFace('Bevas','../font/bebas___-webfont');
+@include fontFace('Helvetica Neue','../font/HelveticaNeue');
+body{
+	font-family:'Bevas' !important;
+}
+h2{
+	font-family:'Helvetica Neue' !important;
+}
+@import "helpers/_mixins.scss";
+@include fontFace('Bevas','../font/bebas___-webfont');
+@include fontFace('Helvetica Neue','../font/HelveticaNeue');
+body{
+	font-family:'Bevas' !important;
+}
+h2{
+	font-family:'Helvetica Neue' !important;
+}
+
+//
+.row {
+    margin-top: 150px;
+}
+#color-bar{
+
+	background-color: #f2b19c;
+	width: 90%;
+	height: 50px;
+    margin-top: 82px;
+	position: absolute;
+}

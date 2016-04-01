@@ -1,0 +1,29 @@
+.img-portfolio{
+	width:150px;
+	height:150px
+}
+img.img-responsive {
+    width: 100%;
+}
+ul#categorylist {
+    position: relative;
+    margin-top: 151px;
+    display: inline-flex;
+}
+
+.col-xs-12.categories {
+    margin-top: -154px;
+    margin-bottom: -80px;
+    margin-left: 21px;
+}
+li.list-item-catg {
+    padding-right: 50px;
+    padding-left: 20px;
+}
+li.list-item-catg:hover {
+    background-color: #E8603C;
+}
+.row.row-portfolio {
+    margin-top: 116px;
+    margin-bottom: 100px;
+}

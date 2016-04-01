@@ -1,0 +1,127 @@
+.float-right {
+  float: right; }
+
+.text-white {
+  color: white; }
+
+.navbar-collapse.collapse.marginl-nav {
+  margin-left: 565px; }
+
+nav.navbar.navbar-default.navbar-fixed-top {
+  background-color: white; }
+
+img.slide {
+  width: 100%; }
+
+#color-bar-home {
+  background-color: #f2b19c;
+  width: 90%;
+  height: 50px;
+  margin-top: 82px;
+  position: absolute; }
+
+img.slide {
+  margin-top: 100px; }
+
+.floatleft h2 {
+  color: #e8603c; }
+
+.btn {
+  background-color: #e8603c; }
+
+div.bg-head {
+  width: 51%;
+  height: 30px;
+  background: url(../images/heading-bg.png);
+  margin-top: -39px;
+  margin-left: -60px; }
+
+.bg-head.rcntw {
+  margin-left: -35px;
+  width: 100%; }
+
+.row.about-jetro {
+  background-color: #E8603C; }
+
+h2 img {
+  padding-right: 25px; }
+
+.width-p {
+  width: 70px; }
+
+blockquote {
+  border-left: 5px solid #e8603c;
+  font-family: cursive; }
+
+.galley {
+  background-image: url(../images/galley_photo.png); }
+
+.row.aboutus {
+  margin-top: 20px; }
+
+.img-portfolio {
+  width: 150px;
+  height: 150px; }
+
+img.img-responsive {
+  width: 100%; }
+
+ul#categorylist {
+  position: relative;
+  margin-top: 151px;
+  display: inline-flex; }
+
+.col-xs-12.categories {
+  margin-top: -154px;
+  margin-bottom: -80px;
+  margin-left: 21px; }
+
+li.list-item-catg {
+  padding-right: 50px;
+  padding-left: 20px; }
+
+li.list-item-catg:hover {
+  background-color: #E8603C; }
+
+.row.row-portfolio {
+  margin-top: 116px;
+  margin-bottom: 100px; }
+
+form.form-style.float-right {
+  width: 487px;
+  margin-top: -144px;
+  margin-right: 83px; }
+
+h4.bg-head {
+  width: 102%;
+  height: 30px;
+  background: url(../images/heading-bg.png);
+  margin-top: 23px;
+  margin-left: -60px; }
+
+.container.padding-contact {
+  padding-top: 20px; }
+
+.padding-barra {
+  padding-bottom: 170px; }
+
+.padding-top {
+  padding-top: 100px; }
+
+#color-bar {
+  background-color: #f2b19c;
+  width: 90%;
+  height: 50px;
+  margin-top: 82px;
+  position: absolute; }
+
+a {
+  color: gray; }
+
+.float-left {
+  float: left; }
+
+h5 {
+  color: #e8603c; }
+
+/*# sourceMappingURL=main.css.map */
